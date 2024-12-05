@@ -4,7 +4,7 @@ locstring DisplayName_lang
 int Field_9_0_1_33978_001?
 locstring Description_lang?
 float MatQualityWeight // Relative contribution of this material to skill bonus
-int Field_10_0_0_44649_004?
+int ReagentType // enum 0-Embellishment, 1-Material, 2-Finishing, 3-Socket
 
 LAYOUT EC698BBC
 BUILD 9.1.5.39977, 9.1.5.40071, 9.1.5.40078, 9.1.5.40196, 9.1.5.40290, 9.1.5.40383, 9.1.5.40496, 9.1.5.40622, 9.1.5.40696, 9.1.5.40738, 9.1.5.40772, 9.1.5.40843, 9.1.5.40871, 9.1.5.40906, 9.1.5.40944, 9.1.5.40966, 9.1.5.41031, 9.1.5.41079, 9.1.5.41288, 9.1.5.41323, 9.1.5.41359, 9.1.5.41488, 9.1.5.41793, 9.1.5.42010
@@ -39,7 +39,7 @@ DisplayName_lang
 Description_lang
 Field_9_0_1_33978_001<32>
 MatQualityWeight
-Field_10_0_0_44649_004<32>
+ReagentType<32>
 
 LAYOUT 0BD1387B
 BUILD 10.1.0.48480, 10.1.0.48537
@@ -52,7 +52,7 @@ DisplayName_lang
 Description_lang
 Field_9_0_1_33978_001<32>
 MatQualityWeight
-Field_10_0_0_44649_004<32>
+ReagentType<32>
 
 LAYOUT B8B17FD4
 BUILD 11.0.0.54210, 11.0.0.54289, 11.0.0.54311, 11.0.0.54361
@@ -68,7 +68,7 @@ DisplayName_lang
 Description_lang
 Field_9_0_1_33978_001<32>
 MatQualityWeight
-Field_10_0_0_44649_004<32>
+ReagentType<32>
 
 LAYOUT A552864D
 BUILD 11.0.7.57361, 11.0.7.57409, 11.0.7.57528, 11.0.7.57641, 11.0.7.57788
@@ -80,4 +80,4 @@ DisplayName_lang
 Description_lang
 Field_9_0_1_33978_001<32>
 MatQualityWeight
-Field_10_0_0_44649_004<32>
+ReagentType<32>
